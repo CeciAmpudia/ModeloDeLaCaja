@@ -1,0 +1,10 @@
+div {
+	width: 90px;
+	height: 20px;
+	border: 2px solid purple;
+	padding-top: 20px;
+	padding-right: 500px;
+	padding-bottom: 30px;
+	padding-left: 500px;
+	margin: 30px 20px;
+}
